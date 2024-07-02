@@ -30,7 +30,7 @@ export default class CL_rumberos{
         if (this._sexo == "M")
         return 25;
     else 
-    return 25-(25*0.25)
+    return 25*0.25;
     }
 
 } 
